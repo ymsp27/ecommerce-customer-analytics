@@ -25,7 +25,7 @@ and 300 transactions.
 - Churn Prediction Model
 - Cohort Analysis
 - Revenue Forecasting
-- 
+  
 ## Project Structure
 - `python/generate_data.py` — synthetic data generation
 - `python/eda_analysis.py` — full EDA, CLV, RFM, segmentation
