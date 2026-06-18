@@ -1,0 +1,3 @@
+data/customers.csv
+data/transactions.csv
+outputs/*.csv
