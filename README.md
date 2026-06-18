@@ -27,7 +27,11 @@ and 300 transactions.
 
 ## How to Run
 pip install pandas numpy matplotlib seaborn
+
 python python/generate_data.py
+
+ls data/
+
 python python/eda_analysis.py
 
 ![RFM Segments](outputs/06_rfm_segments.png)
