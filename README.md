@@ -8,10 +8,16 @@ repeat customers, lifetime value, and segmentation across 50 customers
 and 300 transactions.
 
 ## Key Findings
-- 90.9% repeat customer rate
-- Top 50% of customers (Premium tier) drive 87.7% of revenue
-- RFM segmentation identified 11 Champions averaging $4,460 spend
+- Identified high-value customer segments using RFM scoring.
+- Measured customer lifetime value to understand long-term revenue contribution.
+- Analyzed top-performing acquisition channels and regions.
+- Evaluated repeat purchase behavior and revenue trends.
 
+## Future Enhancements
+- Power BI Dashboard
+- Churn Prediction Model
+- Cohort Analysis
+- Revenue Forecasting
 ## Skills Demonstrated
 - Customer Segmentation (RFM + Spend Tiers)
 - Exploratory Data Analysis
