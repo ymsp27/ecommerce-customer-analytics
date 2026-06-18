@@ -28,7 +28,9 @@ and 300 transactions.
 ## How to Run
 pip install pandas numpy matplotlib seaborn
 
-python python/generate_data.py
+## Note
+Run `python python/generate_data.py` first to generate the dataset
+before running the analysis script.
 
 ls data/
 
