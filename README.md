@@ -13,11 +13,6 @@ and 300 transactions.
 - Analyzed top-performing acquisition channels and regions.
 - Evaluated repeat purchase behavior and revenue trends.
 
-## Future Enhancements
-- Power BI Dashboard
-- Churn Prediction Model
-- Cohort Analysis
-- Revenue Forecasting
 ## Skills Demonstrated
 - Customer Segmentation (RFM + Spend Tiers)
 - Exploratory Data Analysis
@@ -25,6 +20,12 @@ and 300 transactions.
 - SQL (CTEs, Window Functions, NTILE scoring)
 - CLV Modeling
 
+## Future Enhancements
+- Power BI Dashboard
+- Churn Prediction Model
+- Cohort Analysis
+- Revenue Forecasting
+- 
 ## Project Structure
 - `python/generate_data.py` — synthetic data generation
 - `python/eda_analysis.py` — full EDA, CLV, RFM, segmentation
