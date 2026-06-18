@@ -1,6 +1,6 @@
 # E-Commerce Customer Analytics
 
-**Tools:** Python (Pandas, Matplotlib, Seaborn) · MySQL · Power BI
+**Tools:** Python (Pandas, Matplotlib, Seaborn) · SQL · Power BI
 
 ## Overview
 End-to-end customer analytics pipeline analyzing purchase behavior,
